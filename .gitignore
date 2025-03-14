@@ -1,0 +1,5 @@
+# Ignore all .wav files
+recordings/*.wav
+Spoken_Digit_Dataset/recordings/*.wav
+
+
